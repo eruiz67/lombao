@@ -20,7 +20,7 @@
     'version': '13.0.0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base','project_milestone'],
+    'depends': ['base','project_milestone', 'project_task_timer'],
 
     # always loaded
     'data': [
